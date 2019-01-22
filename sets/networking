@@ -1,0 +1,14 @@
+net-wireless/wpa_supplicant
+net-wireless/iw
+net-analyzer/tcpdump
+net-analyzer/nettop
+net-dns/bind-tools
+net-dns/dnsmasq
+net-firewall/iptables
+net-misc/ntp
+net-misc/telnet-bsd
+net-misc/socat
+
+
+sys-apps/ifplugd
+net-wireless/wireless-regdb

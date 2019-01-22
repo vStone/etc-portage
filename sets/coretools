@@ -1,0 +1,46 @@
+# disk mgmt
+sys-fs/lvm2
+sys-fs/mdadm
+sys-fs/dmraid
+sys-fs/cryptsetup
+sys-apps/hdparm
+sys-apps/smartmontools
+
+# filesystem support
+sys-fs/reiserfsprogs
+sys-fs/e2fsprogs
+sys-fs/fuse
+sys-fs/ntfs3g
+sys-fs/dosfstools
+
+# Network fs
+net-fs/autofs
+net-fs/nfs-utils
+
+# Basic systemtools
+## User mgmt
+app-admin/sudo
+
+## Networking
+net-misc/netifrc
+net-misc/dhcpcd
+net-dns/openresolv
+
+
+## Core services
+app-admin/syslog-ng
+app-admin/logrotate
+sys-process/cronie
+net-misc/openssh
+net-misc/chrony
+
+# Kernel tools
+sys-kernel/genkernel-next
+sys-kernel/linux-firmware
+
+# Hardware
+sys-apps/pciutils
+sys-firmware/intel-microcode
+
+# Bootloader
+sys-boot/grub

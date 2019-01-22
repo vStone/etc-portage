@@ -1,0 +1,16 @@
+# Basics
+x11-base/xorg-x11
+x11-misc/lightdm
+
+# Xfce4
+xfce-base/xfce4-meta
+
+# Tools
+x11-terms/terminator
+app-editors/leafpad
+
+# Xfce4 Extras
+xfce-extra/xfce4-cpugraph-plugin
+xfce-extra/xfce4-netload-plugin
+xfce-extra/xfce4-notes-plugin
+xfce-extra/xfce4-verve-plugin
