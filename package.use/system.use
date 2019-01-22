@@ -1,0 +1,13 @@
+# needed to get rid of circular deps during install
+sys-libs/ncurses -gpm
+sys-fs/cryptsetup static -gcrypt nettle static-libs
+virtual/libudev static-libs
+sys-fs/eudev static-libs
+dev-libs/nettle static-libs
+sys-fs/lvm2 static-libs
+sys-apps/util-linux static-libs
+dev-libs/popt static-libs
+dev-libs/libgpg-error static-libs
+sys-firmware/intel-microcode initramfs
+sys-boot/grub device-mapper
+dev-libs/openssl -bindist

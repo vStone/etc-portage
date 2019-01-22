@@ -1,0 +1,2 @@
+# Only install libraries and userspace tools. No server wanted
+net-nds/openldap minimal

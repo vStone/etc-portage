@@ -1,0 +1,25 @@
+# Who uses a mouse on the console...
+*/* -gpm
+
+# Sysstufffs
+*/* lvm
+*/* cryptsetup
+*/* -bindist
+
+# UTF-16 support in pcre
+*/* pcre16
+
+# Support for vim
+*/* vim-syntax
+
+# Graphics
+*/* gtk3
+
+# Source control
+*/* git
+
+# Security
+*/* gpg
+
+# Audio
+*/* pulseaudio
